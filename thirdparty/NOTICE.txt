@@ -6,7 +6,7 @@ projects.
 
 The complete text for each software license can be found in the directory "thirdparty/licenses".
   
-* Fabric API libraries
+* Fabric API libraries 
   * Copyright (c) 2016 FabricMC
   * License: Apache 2.0 (SPDX: Apache-2.0)
   * Original Source:
